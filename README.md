@@ -38,7 +38,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Refine familiar methods of text classification and explore methods not within my past experiences.
 
 ### Goal:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstrate different NLP methods and ML models to classify text with great accuracty. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstrate different NLP methods and ML models to classify text with great accuracy. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
