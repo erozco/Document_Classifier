@@ -86,8 +86,6 @@ Copy/clone the needed files in this repository. Run each cell in order in each J
 - [ ] BERT
 - [ ] XLNet
 
-See the [open issues](https://github.com/erozco/Offensive_Language_Classifier/issues) for a full list of proposed features (and known issues).
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
