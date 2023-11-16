@@ -66,9 +66,7 @@
 
 <!-- DATA SOURCE -->
 ## Data Source
-```sh
-   https://github.com/t-davidson/hate-speech-and-offensive-language
-   ```
+[https://github.com/t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
