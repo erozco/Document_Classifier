@@ -54,7 +54,7 @@
    ```sh
    git clone https://github.com/erozco/Offensive_Language_Classifier.git
    ```
-2. Install packages
+2. Install less common packages
    ```sh
    pip install nltk
    ```
