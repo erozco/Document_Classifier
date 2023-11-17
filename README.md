@@ -82,7 +82,7 @@ Copy/clone the needed files in this repository. Run each cell in order in each J
 ## Roadmap
 
 - [x] Multinomial Naive Bayes
-- [ ] Forest Trees
+- [ ] Tree Models
 - [ ] BERT
 - [ ] XLNet
 
