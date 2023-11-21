@@ -83,7 +83,7 @@ Copy/clone the needed files in this repository. Run each cell in order in each J
 
 - [x] Multinomial Naive Bayes
   - [X] TF-IDF
-  - [X] BERT
+  - [ ] BERT
   - [ ] XLNet
 - [ ] Tree Models
 - [ ] Neural Net
