@@ -82,9 +82,11 @@ Copy/clone the needed files in this repository. Run each cell in order in each J
 ## Roadmap
 
 - [x] Multinomial Naive Bayes
+  - [X] TF-IDF
+  - [X] BERT
+  - [ ] XLNet
 - [ ] Tree Models
-- [ ] BERT
-- [ ] XLNet
+- [ ] Neural Net
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
